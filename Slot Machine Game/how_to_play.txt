@@ -1,0 +1,23 @@
+###############################################################
+  _                       _                    _               
+ | |_    ___  __ __ __   | |_   ___     _ __  | |  __ _   _  _ 
+ | ' \  / _ \ \ V  V /   |  _| / _ \   | '_ \ | | / _` | | || |
+ |_||_| \___/  \_/\_/     \__| \___/   | .__/ |_| \__,_|  \_, |
+                                       |_|                |__/ 
+
+>Enter a bet amount of your choice
+
+>Make sure the bet is equal or less than your current cash
+
+>Double check your bet is a whole number 
+
+>Enjoy
+
+
+
+Thank you for playing,
+
+Alexandre
+###############################################################
+
+ 
